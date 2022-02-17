@@ -1,2 +1,2 @@
 # Dinámica Molecular
-Notebooks simples de dinámica (uno en Python y su port en Julia).
+Notebooks simples de dinámica (uno en Python y su port en [Julia](molecular_dyn.ipynb)).
